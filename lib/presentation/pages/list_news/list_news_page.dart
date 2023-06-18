@@ -100,7 +100,8 @@ class ListNewsPage extends GetView<ListNewsController> {
                                     ),
                                     SizedBox(height: 40),
                                     Text(
-                                      "${controller.newsAppModel.articles![index].author}",
+                                      "${controller.newsAppModel
+                                          .articles![index].author}",
                                       style: TextStyle(
                                         color: author,
                                         fontWeight: FontWeight.bold,

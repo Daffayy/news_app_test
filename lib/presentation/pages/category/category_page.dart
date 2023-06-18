@@ -67,8 +67,8 @@ class CategoryPage extends GetView<CategoryController> {
                               Expanded(
                                 child: Container(
                                   margin: EdgeInsets.all(8),
-                                  width: 70,
-                                  height: 70,
+                                  width: 60,
+                                  height: 60,
                                   decoration: BoxDecoration(
                                     color: appBarColor,
                                     borderRadius: BorderRadius.circular(
@@ -78,8 +78,8 @@ class CategoryPage extends GetView<CategoryController> {
                                     alignment: Alignment.center,
                                     child: Image.asset(
                                       listOfCategory[index]['images']!,
-                                      width: 40,
-                                      height: 70,
+                                      width: 30,
+                                      height: 30,
                                     ),
                                   ),
                                 ),
