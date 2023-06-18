@@ -1,0 +1,1 @@
+export 'package:news_app_test/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
