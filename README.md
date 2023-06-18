@@ -12,10 +12,11 @@
 
 
 ### List News
-![image](https://github.com/Daffayy/news_app_test/assets/94030266/15a543ab-bae4-41f9-8fe7-1ee537ffc67c)
+![image](https://github.com/Daffayy/news_app_test/assets/94030266/fc90a122-c348-411c-abe9-101ebe1d662f)
 
 
 ### Detail News
-![image](https://github.com/Daffayy/news_app_test/assets/94030266/d82e64df-0f9f-4f39-8a9f-09f9e5cbb612)
+![image](https://github.com/Daffayy/news_app_test/assets/94030266/8a593e2e-9b1a-4cbc-b349-0e1192b6fac4)
+
 
 
