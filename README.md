@@ -8,7 +8,7 @@
 
 
 ## Category Page
-![image](https://github.com/Daffayy/news_app_test/assets/94030266/5ef7e8c2-5531-4f71-aaad-54bec737e192)
+![image](https://github.com/Daffayy/news_app_test/assets/94030266/bc9b4e16-63f2-4d06-872a-6e7bba8596a8)
 
 
 ### List News
