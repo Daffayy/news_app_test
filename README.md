@@ -1,16 +1,21 @@
-# news_app_test
+# News App test
 
-A new Flutter project.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
+### Splash Screen
+![image](https://github.com/Daffayy/news_app_test/assets/94030266/39ee039c-b318-483a-acc4-e06c90919e2a)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Category Page
+![image](https://github.com/Daffayy/news_app_test/assets/94030266/5ef7e8c2-5531-4f71-aaad-54bec737e192)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### List News
+![image](https://github.com/Daffayy/news_app_test/assets/94030266/15a543ab-bae4-41f9-8fe7-1ee537ffc67c)
+
+
+### Detail News
+![image](https://github.com/Daffayy/news_app_test/assets/94030266/d82e64df-0f9f-4f39-8a9f-09f9e5cbb612)
+
+
